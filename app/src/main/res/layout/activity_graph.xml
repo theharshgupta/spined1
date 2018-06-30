@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.assistx.hg.sp.Graph">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/graphHead"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:paddingTop="10dp"
+            android:text="Your Posture Trend"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView3"
+        android:layout_width="395dp"
+        android:layout_height="260dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="95dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="178dp">
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/bargraph"
+            android:layout_width="323dp"
+            android:layout_height="229dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.52"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.096">
+
+        </com.github.mikephil.charting.charts.BarChart>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_below="@+id/cardView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:text="How to Use this Graph"
+            android:textAlignment="viewStart"
+            android:textColor="@color/darkblue"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="45dp"
+            android:background="@color/lightgray" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp"
+            android:padding="15dp"
+            android:text="\u25CF Each Bargraph indicates the % of Bad Pos \n\u25CF Barchart contains the dates to see the trend.\n\u25CF Based on the graph, a Report is generated  "
+            android:textAlignment="textStart"
+            android:textColor="@color/graytext"
+            android:textSize="10sp" />
+
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView4"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/cardView">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="60dp"
+            android:paddingTop="8dp"
+            android:text="Report"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_alignEnd="@+id/cardView"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:id="@+id/reportSet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:text=""
+            android:textAlignment="center"
+            android:textColor="@color/green"
+            android:textSize="25sp" />
+
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

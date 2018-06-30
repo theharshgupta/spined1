@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spined</string>
+    <string name="text_with_bullet">Text with a \u25CF </string>
+    <string name="abouts">
+        Spined is an application aimed to help people improve their cervical spine posture. This app has been developed after various studies had been conducted. On a sample size of 100, the study found commendable results. Spined employs novel technology that fetches raw accelerometer data and process it through a series of filters and algorithms. Past research usually takes two sensors to find the orientation of the phone; however, we have done it using a single sensor.
+
+        \n
+        \n
+        \n
+        \n
+
+    </string>
+    <string name="channel_name">chai</string>
+    <string name="permission_title">lol</string>
+    <string name="permission_detail">heyeye</string>
+    <string name="continue_and_learn">con</string>
+    <string name="list_with_tab_tag">\tbanana\torange\tblueberry\tmango</string>
+</resources>

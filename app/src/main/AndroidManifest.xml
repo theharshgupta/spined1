@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.assistx.hg.sp">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/mainl"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/mainl"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- <receiver android:name="com.assistx.hg.spined.ScreenReceiver"> -->
+
+        <!-- </receiver> -->
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".About" />
+        <activity android:name=".Graph" />
+        <activity android:name=".Listdata" />
+        <activity android:name=".BaseActivity" />
+        <activity android:name=".firstTime" />
+    </application>
+
+</manifest>

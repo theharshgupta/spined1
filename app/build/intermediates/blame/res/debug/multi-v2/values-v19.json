@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Harsh Gupta\\Desktop\\Programming\\spined-release_1\\spined\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\tutorial-view-v1.0.6.aar\\f00388cf8f367fc0980a2a3f639b712d\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "273"
+                    }
+                }
+            ]
+        }
+    ]
+}

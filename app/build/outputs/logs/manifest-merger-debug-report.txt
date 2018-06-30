@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.github.msayan:tutorial-view:v1.0.6] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\tutorial-view-v1.0.6.aar\f00388cf8f367fc0980a2a3f639b712d\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\81803d13b91cc282310ce2dd7196d81a\AndroidManifest.xml:17:1-22:12
+MERGED from [me.anwarshahriar:calligrapher:1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\calligrapher-1.0.aar\af094d865b29765ce7f7eaeece83f267\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2f07a3fa8a4036b7e87660e08bad0232\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a0814d47d7f0a31cfa2694c768c0b923\AndroidManifest.xml:17:1-22:12
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\293e9476ab31c2744bfd325ab2d97cff\AndroidManifest.xml:2:1-16:12
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-2.0.3.aar\fbddf310a2bf88f6f541fdb8c6e9e59b\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\03f47c10e69dd7a477ed1565ecae056b\AndroidManifest.xml:17:1-22:12
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\2b4db31b9b7d9b9d848ae82fc956cdf1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf1688ffe49b1f5af8d8b5d8709057a2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9f5a5e115ddc6eaff518ca05d5104254\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\37d09285fdd8d118b9a5c3ea8ff649e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\904cbd27a0a4dc143fbb50846f02c14f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\801b7bf66f44c1e34e3dd5aab850faed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\26da5d907ade8fc3dab43b9a37198e5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8369e5cd117d0b53593fd80bd5dc422e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\df22cedc30b3b0baeb3c69ef4b073c76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f65a8f40f43bbba588e3581bd809f2a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ea86839d63a00ee0748c341b28143df6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\efcb04e49e1db293c82ef4143e36217a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5683d1a38831975bc1d31f1d4767194\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f6e58142d50305284d299af34240f383\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5028f8f755f8bfe22e04afec7fc7924f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e17b679be3ea43fc7f12131eebf60758\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:9:5-35:19
+MERGED from [com.github.msayan:tutorial-view:v1.0.6] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\tutorial-view-v1.0.6.aar\f00388cf8f367fc0980a2a3f639b712d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.msayan:tutorial-view:v1.0.6] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\tutorial-view-v1.0.6.aar\f00388cf8f367fc0980a2a3f639b712d\AndroidManifest.xml:11:5-15:19
+MERGED from [me.anwarshahriar:calligrapher:1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\calligrapher-1.0.aar\af094d865b29765ce7f7eaeece83f267\AndroidManifest.xml:11:5-15:19
+MERGED from [me.anwarshahriar:calligrapher:1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\calligrapher-1.0.aar\af094d865b29765ce7f7eaeece83f267\AndroidManifest.xml:11:5-15:19
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\293e9476ab31c2744bfd325ab2d97cff\AndroidManifest.xml:11:5-14:19
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\293e9476ab31c2744bfd325ab2d97cff\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf1688ffe49b1f5af8d8b5d8709057a2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf1688ffe49b1f5af8d8b5d8709057a2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:13:9-42
+	android:icon
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:11:9-37
+	android:allowBackup
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.assistx.hg.sp.SplashScreen
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:23:27-74
+intent-filter#action:name:android.intent.action.USER_PRESENT
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:25:13-27:29
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:26:25-74
+activity#com.assistx.hg.sp.MainActivity
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.assistx.hg.sp.About
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:30:9-43
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:30:19-40
+activity#com.assistx.hg.sp.Graph
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:31:9-43
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:31:19-40
+activity#com.assistx.hg.sp.Listdata
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:32:19-43
+activity#com.assistx.hg.sp.BaseActivity
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:33:19-47
+activity#com.assistx.hg.sp.firstTime
+ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:34:9-47
+	android:name
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml:34:19-44
+uses-sdk
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+MERGED from [com.github.msayan:tutorial-view:v1.0.6] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\tutorial-view-v1.0.6.aar\f00388cf8f367fc0980a2a3f639b712d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.msayan:tutorial-view:v1.0.6] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\tutorial-view-v1.0.6.aar\f00388cf8f367fc0980a2a3f639b712d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\81803d13b91cc282310ce2dd7196d81a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\81803d13b91cc282310ce2dd7196d81a\AndroidManifest.xml:20:5-44
+MERGED from [me.anwarshahriar:calligrapher:1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\calligrapher-1.0.aar\af094d865b29765ce7f7eaeece83f267\AndroidManifest.xml:7:5-9:41
+MERGED from [me.anwarshahriar:calligrapher:1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\calligrapher-1.0.aar\af094d865b29765ce7f7eaeece83f267\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2f07a3fa8a4036b7e87660e08bad0232\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2f07a3fa8a4036b7e87660e08bad0232\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a0814d47d7f0a31cfa2694c768c0b923\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a0814d47d7f0a31cfa2694c768c0b923\AndroidManifest.xml:20:5-44
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\293e9476ab31c2744bfd325ab2d97cff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\293e9476ab31c2744bfd325ab2d97cff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-2.0.3.aar\fbddf310a2bf88f6f541fdb8c6e9e59b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-2.0.3.aar\fbddf310a2bf88f6f541fdb8c6e9e59b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\03f47c10e69dd7a477ed1565ecae056b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\03f47c10e69dd7a477ed1565ecae056b\AndroidManifest.xml:20:5-44
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\2b4db31b9b7d9b9d848ae82fc956cdf1\AndroidManifest.xml:7:5-9:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\2b4db31b9b7d9b9d848ae82fc956cdf1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf1688ffe49b1f5af8d8b5d8709057a2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf1688ffe49b1f5af8d8b5d8709057a2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9f5a5e115ddc6eaff518ca05d5104254\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9f5a5e115ddc6eaff518ca05d5104254\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\37d09285fdd8d118b9a5c3ea8ff649e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\37d09285fdd8d118b9a5c3ea8ff649e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\904cbd27a0a4dc143fbb50846f02c14f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\904cbd27a0a4dc143fbb50846f02c14f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\801b7bf66f44c1e34e3dd5aab850faed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\801b7bf66f44c1e34e3dd5aab850faed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\26da5d907ade8fc3dab43b9a37198e5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\26da5d907ade8fc3dab43b9a37198e5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8369e5cd117d0b53593fd80bd5dc422e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8369e5cd117d0b53593fd80bd5dc422e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\df22cedc30b3b0baeb3c69ef4b073c76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\df22cedc30b3b0baeb3c69ef4b073c76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f65a8f40f43bbba588e3581bd809f2a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f65a8f40f43bbba588e3581bd809f2a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ea86839d63a00ee0748c341b28143df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ea86839d63a00ee0748c341b28143df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\efcb04e49e1db293c82ef4143e36217a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\efcb04e49e1db293c82ef4143e36217a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5683d1a38831975bc1d31f1d4767194\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5683d1a38831975bc1d31f1d4767194\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f6e58142d50305284d299af34240f383\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f6e58142d50305284d299af34240f383\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5028f8f755f8bfe22e04afec7fc7924f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5028f8f755f8bfe22e04afec7fc7924f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e17b679be3ea43fc7f12131eebf60758\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e17b679be3ea43fc7f12131eebf60758\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harsh Gupta\Desktop\Programming\spined-release_1\spined\app\src\main\AndroidManifest.xml

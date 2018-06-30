@@ -1,0 +1,4 @@
+#Sat Jun 30 16:36:44 IST 2018
+base.0=C\:\\Users\\Harsh Gupta\\Desktop\\Programming\\spined-release_1\\spined\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
